@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Child Care Center</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Child Care Center</h1>
+        <nav>
+            <ul>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="contact.php">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="services">
+            <h2>Services</h2>
+            <ul>
+                <li>Full Day Care</li>
+                <li>Part Time Care</li>
+                <li>Drop-In Care</li>
+            </ul>
+        </section>
+        <section id="gallery">
+            <h2>Gallery</h2>
+            <div class="gallery">
+                <img src="image1.jpg" alt="Child playing">
+                <img src="image2.jpg" alt="Children eating">
+                <img src="image3.jpg" alt="Children sleeping">
+            </div>
+        </section>
+        <section id="testimonials">
+            <h2>Testimonials</h2>
+            <div class="testimonial">
+                <p>"The child care center is amazing! My child is so happy and well-cared for."</p>
+                <cite>- Jane Doe</cite>
+            </div>
+            <div class="testimonial">
+                <p>"My child has made so much progress since joining the child care
